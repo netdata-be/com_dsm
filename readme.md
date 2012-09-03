@@ -1,6 +1,6 @@
-Er staat een XML op de server: /data/sites/web/wine-budgetcom/sync/art2si.xml
+Er staat een XML op de server: _/data/sites/web/wine-budgetcom/sync/art2si.xml_
 
-XML wordt geparsed in views import view.html.php
+XML wordt geparsed in views import _view.html.php_
 Hier wordt een array opgebouwd van de products met hun data
 
 Vervolgens gebeuren er een aantal stappen:
