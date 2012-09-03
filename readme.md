@@ -1,3 +1,6 @@
+Hoe werkt de sync module
+========================
+
 Er staat een XML op de server: _/data/sites/web/wine-budgetcom/sync/art2si.xml_
 
 XML wordt geparsed in views import _view.html.php_
